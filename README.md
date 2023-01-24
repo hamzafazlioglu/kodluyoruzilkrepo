@@ -21,4 +21,5 @@ Pull requistler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ## License
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
+---
 ![resim](https://global-uploads.webflow.com/6097e0eca1e87557da031fef/63739a32259566fc9428cb1d_Deneme.png)
